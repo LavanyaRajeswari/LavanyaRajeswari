@@ -104,6 +104,7 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=LavanyaRajeswari&theme=tokyonight&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=true"
     alt="GitHub Streak"
   />
+  <img src="https://streak-stats.demolab.com?user=LavanyaRajeswari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </p>
 
 <h3><b> 🌐 Let’s connect</b></h3> 
