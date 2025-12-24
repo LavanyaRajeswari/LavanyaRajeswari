@@ -1,7 +1,11 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lavanya+Rajeswari+👋;Full-Stack+Developer+%7C+Software+Developer;Competitive+Coder+who+loves+DSA+and+Development;Crafting+Web+Apps+and+Clean+APIs+💻" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lavanya+Rajeswari+👋;Full-Stack+Developer+%7C+Software+Developer;Competitive+Coder+who+loves+DSA+and+Dark+Themes;Crafting+Neon+Web+Apps+and+Clean+APIs+💻"
+    alt="Typing SVG"
+  />
 </p>
+
 
 <!-- HEADER CARD -->
 <p align="center">
@@ -11,10 +15,10 @@
 </p>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 <h2><b> ⭐ About me</b></h2>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <label><b>- ⚡Lavanya Rajeswari⚡</b></label><br />
 <label>- 🎓 **CS student** @ Aditya College of Engineering and Technology (2022–2026)  </label><br />
 <label>- 💙 Love **Creative UIs**, full‑stack web apps, and reliable backends  </label><br />
@@ -27,7 +31,7 @@
 <p align="center">
   <!-- Row 1 -->
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cpp logo"  />
@@ -46,7 +50,7 @@
   <img width="12" />
 </div>
 <br />
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
@@ -106,6 +110,7 @@
 
 
 
+
 <h3><b> 🌐 Let’s connect</b></h3> 
 
 <p align="center">
@@ -125,5 +130,9 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⚡;Let%E2%80%99s+build+something+awesome+today;"alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⚡;Let%E2%80%99s+build+something+awesome+in+dark+blue+✨"
+    alt="Typing SVG"
+  />
 </div>
+
