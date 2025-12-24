@@ -36,45 +36,62 @@
 
 <p align="center">
   <!-- Row 1 -->
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cpp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cpp logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
+   <img width="12" />
 </div>
+
 <br />
-<div align="center">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="50" alt="firebase logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
-<img width="12" />
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="50" alt="firebase logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo"
+       style="border: 1px solid #ffffff; border-radius: 8px; padding: 4px; filter: drop-shadow(0 0 4px #ffffff);" />
+  <img width="12" />
 </div>
+
 </p>
 
 <h3><b>🚀 Highlight Projects</b></h3>
