@@ -1,10 +1,17 @@
-<!-- BANNER -->
+
+<!-- SCROLLING BANNER (dark blue + neon) -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lavanya+Rajeswari+👋;Full-Stack+Developer+%7C+Software+Developer;Competitive+Coder+who+loves+DSA+and+Dark+Themes;Crafting+Web+Apps+and+Clean+APIs+💻"
-    alt="Typing SVG"
-  />
+  <b>Hi, I'm Lavanya Rajeswari 👋 </b><br />
+  <marquee behavior="scroll" direction="left" scrollamount="7"
+           style="max-width: 95%; border-radius: 999px; padding: 10px 18px;
+                  background:#020617; color:#38BDF8; font-family:'Fira Code', monospace;
+                  font-size:18px; border:1px solid #38BDF8;
+                  box-shadow:0 0 12px rgba(56,189,248,0.7);">
+    · Full‑Stack Developer · Software Developer ·
+    Competitive coder who loves DSA and Development · Crafting web apps and clean APIs 💻
+  </marquee>
 </p>
+
 
 <!-- HEADER CARD -->
 <p align="center">
@@ -50,22 +57,23 @@
 </div>
 <br />
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
-  <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="50" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
-  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="50" alt="firebase logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo" style="filter: drop-shadow(0 0 4px #ffffff);" />
+<img width="12" />
+
 </div>
 </p>
 
@@ -85,14 +93,11 @@
 
 <h3><b>🧩 Competitive Coding</b></h3> 
 
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/HackerRank-5⭐%20C++%20%7C%20Problem%20Solving-020617?style=for-the-badge&logo=hackerrank&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/LeetCode-350%2B-020617?style=for-the-badge&logo=leetcode&logoColor=facc15" />
   <img src="https://img.shields.io/badge/CodeChef-440%2B-020617?style=for-the-badge&logo=codechef&logoColor=ffffff" />
-    <br/>
   <img src="https://img.shields.io/badge/GFG-180%2B-020617?style=for-the-badge&logo=geeksforgeeks&logoColor=22c55e" />
-  <br/>
-  <br/>
   <img src="https://img.shields.io/badge/Cert-Pearson%20JS%20Fundamentals-020617?style=for-the-badge&logo=javascript&logoColor=facc15" />
   <img src="https://img.shields.io/badge/Cert-Cisco%20JS%20Essentials%201%2F2-020617?style=for-the-badge&logo=cisco&logoColor=38bdf8" />
 </p>
@@ -102,45 +107,35 @@
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LavanyaRajeswari&theme=tokyonight"
-    alt="Lavanya's GitHub stats"
-  />
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaRajeswari&theme=tokyonight"
-    alt="Top Languages"
-  />
-</a>
-</p>
+
 <h3><b> 🌐 Let’s connect</b></h3> 
 
 <p align="center">
   <a href="https://linkedin.com/in/lavanya-rajeswari-saride-7b856a288">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="linkedin"
+         style="filter: drop-shadow(0 0 4px #ffffff);" />
   </a>
   <a href="https://github.com/LavanyaRajeswari">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="github" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="github"
+         style="filter: drop-shadow(0 0 4px #ffffff);" />
   </a>
   <a href="https://your-portfolio-link">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="portfolio" />
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="portfolio"
+         style="filter: drop-shadow(0 0 4px #ffffff);" />
   </a>
   <a href="mailto:yourmail@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="email" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="email"
+         style="filter: drop-shadow(0 0 4px #ffffff);" />
   </a>
 </p>
 
-
-<div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⚡;Let%E2%80%99s+build+something+awesome+in+dark+blue+✨"
-    alt="Typing SVG"
-  />
-
-</div>
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="7"
+           style="max-width: 95%; border-radius: 999px; padding: 10px 18px;
+                  background:#020617; color:#38BDF8; font-family:'Fira Code', monospace;
+                  font-size:18px; border:1px solid #38BDF8;
+                  box-shadow:0 0 12px rgba(56,189,248,0.7);">
+    | Thank you For Stopping By 👋 | Let's Build Something Awesome Today 💻 |
+  </marquee>
+</p>
 
