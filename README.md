@@ -6,7 +6,6 @@
   />
 </p>
 
-
 <!-- HEADER CARD -->
 <p align="center">
   <img src="https://img.shields.io/badge/Theme-Dark%20Blue-020617?style=for-the-badge&logo=github&logoColor=ffffff" />
@@ -100,16 +99,12 @@
 
 
 <h3><b> 📊 Stats Zone</b></h3>
-
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com?user=LavanyaRajeswari&theme=tokyonight&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
-
-
 
 <h3><b> 🌐 Let’s connect</b></h3> 
 
