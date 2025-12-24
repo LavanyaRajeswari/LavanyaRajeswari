@@ -100,13 +100,9 @@
 
 <h3><b> 📊 Stats Zone</b></h3>
 
-<p align="center">
-  <img src="https://github-readme-stats-lavanya.vercel.app/api?username=LavanyaRajeswari&show_icons=true&theme=tokyonight" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats-lavanya.vercel.app/api/top-langs/?username=LavanyaRajeswari&layout=compact&theme=tokyonight" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight" alt="GitHub Streak" /></a>
 
 <h3><b> 🌐 Let’s connect</b></h3> 
 
