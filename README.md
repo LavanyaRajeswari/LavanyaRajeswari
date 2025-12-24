@@ -104,7 +104,8 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=LavanyaRajeswari&theme=tokyonight&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=true"
     alt="GitHub Streak"
   />
-  <img src="https://streak-stats.demolab.com?user=LavanyaRajeswari&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![Lavanya's github stats](https://github-readme-stats.vercel.app/api?username=LavanyaRajeswari&&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaRajeswari&theme=tokyonight&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=true")](https://github.com/LavanyaRajeswari/github-readme-stats)
 </p>
 
 <h3><b> 🌐 Let’s connect</b></h3> 
@@ -130,5 +131,6 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+⚡;Let%E2%80%99s+build+something+awesome+in+dark+blue+✨"
     alt="Typing SVG"
   />
+
 </div>
 
