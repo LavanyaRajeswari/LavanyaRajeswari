@@ -11,9 +11,11 @@
 </p>
 
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<h2><b>About me</b></h2>
 
+<h2><b> ⭐ About me</b></h2>
+<label><b>- ⚡Lavanya Rajeswari⚡</b></label><br />
 <label>- 🎓 **CS student** @ Aditya College of Engineering and Technology (2022–2026)  </label><br />
 <label>- 💙 Love **Creative UIs**, full‑stack web apps, and reliable backends  </label><br />
 <label>- 🧠 Deep into **DSA, Development, and clean architecture**  </label><br />
@@ -24,11 +26,44 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,nodejs,express,spring&theme=dark" height="60" />
-  <br/>
-  <br/>
-  <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,git,github,postman,vscode&theme=dark" height="60" />
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cpp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="12" />
+</div>
+<br />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="50" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
+  <img width="12" />
+</div>
 </p>
 
 <h3><b>🚀 Highlight Projects</b></h3>
@@ -48,7 +83,7 @@
 <h3><b>🧩 Competitive Coding</b></h3> 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-5★%20C++%20%7C%20Problem%20Solving-020617?style=for-the-badge&logo=hackerrank&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/HackerRank-5⭐%20C++%20%7C%20Problem%20Solving-020617?style=for-the-badge&logo=hackerrank&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/LeetCode-350%2B-020617?style=for-the-badge&logo=leetcode&logoColor=facc15" />
   <img src="https://img.shields.io/badge/CodeChef-440%2B-020617?style=for-the-badge&logo=codechef&logoColor=ffffff" />
     <br/>
@@ -63,25 +98,12 @@
 <h3><b> 📊 Stats Zone</b></h3>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LavanyaRajeswari&show_icons=true&theme=tokyonight&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb&hide_border=true&rank_icon=github" 
-    alt="GitHub Stats" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=LavanyaRajeswari&theme=tokyonight&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaRajeswari&layout=compact&theme=tokyonight&bg_color=020617&title_color=38bdf8&text_color=e5e7eb&hide_border=true" 
-    alt="Top Languages" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=true" 
-    alt="GitHub Streak" 
-  />
-</p>
 
 
 <h3><b> 🌐 Let’s connect</b></h3> 
