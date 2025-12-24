@@ -100,9 +100,26 @@
 
 <h3><b> 📊 Stats Zone</b></h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight&background=020617&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&hide_border=true"
+    alt="GitHub Streak"
+  />
+</a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight" alt="GitHub Streak" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LavanyaRajeswari&show_icons=true&title_color=ffffff&icon_color=55E897&text_color=5EACE1&bg_color=151515"
+    alt="Lavanya's GitHub stats"
+  />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaRajeswari&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+</a>
 
 <h3><b> 🌐 Let’s connect</b></h3> 
 
