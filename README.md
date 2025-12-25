@@ -136,11 +136,11 @@
     <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="github"
          style="filter: drop-shadow(0 0 4px #ffffff);" />
   </a>
-  <a href="https://your-portfolio-link">
+  <a href="https://lavanya-rajeswari.vercel.app">
     <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="portfolio"
          style="filter: drop-shadow(0 0 4px #ffffff);" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="saridelavanyarajeswari@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="email"
          style="filter: drop-shadow(0 0 4px #ffffff);" />
   </a>
@@ -152,7 +152,12 @@
                   background:#020617; color:#38BDF8; font-family:'Fira Code', monospace;
                   font-size:18px; border:1px solid #38BDF8;
                   box-shadow:0 0 12px rgba(56,189,248,0.7);">
-    | Thank you For Stopping By 👋 | Let's Build Something Awesome Today 💻 |
+    | Thank you For Stopping By 👋 | Let's Build Something Awesome Today 💻 | 
   </marquee>
+</p>
+<p align="center">
+  <a href="https://lavanya-rajeswari.vercel.app">
+   ⭐ Portfolio
+  </a>
 </p>
 
