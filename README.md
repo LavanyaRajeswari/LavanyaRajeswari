@@ -7,7 +7,7 @@
                   background:#020617; color:#38BDF8; font-family:'Fira Code', monospace;
                   font-size:18px; border:1px solid #38BDF8;
                   box-shadow:0 0 12px rgba(56,189,248,0.7);">
-    · Full‑Stack Developer · Software Developer ·
+    | Full‑Stack Developer | Software Developer |
     Competitive coder who loves DSA and Development · Crafting web apps and clean APIs 💻
   </marquee>
 </p>
