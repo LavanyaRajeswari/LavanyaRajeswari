@@ -122,7 +122,7 @@
 
 <h3><b> 📊 Stats Zone</b></h3>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-jet-seven.vercel.app?user=LavanyaRajeswari&theme=tokyonight" alt="GitHub Streak" /></a>
 </p>
 
 <h3><b> 🌐 Let’s connect</b></h3> 
