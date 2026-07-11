@@ -1,211 +1,383 @@
-<p align="center">
-  <b>Hi, I'm Lavanya Rajeswari 👋 </b><br />
-  <marquee behavior="scroll" direction="left" scrollamount="7"
-           style="max-width: 95%; border-radius: 999px; padding: 10px 18px;
-                  background:#020617; color:#38BDF8; font-family:'Fira Code', monospace;
-                  font-size:18px; border:1px solid #38BDF8;
-                  box-shadow:0 0 12px rgba(56,189,248,0.7);">
-    | Full-Stack Developer | Java Developer | Spring Boot Developer |
-    Competitive Programmer • Building Scalable Full-Stack Applications • Clean APIs 💻
-  </marquee>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark%20Blue-020617?style=for-the-badge&logo=github&logoColor=ffffff" />
-  <img src="https://komarev.com/ghpvc/?username=LavanyaRajeswari&label=Visitors&color=1f6feb&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0b1736?style=for-the-badge&logo=visualstudiocode&logoColor=00E5FF" />
-</p>
-
-<h2><b>⭐ About me</b></h2>
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
-
-<label><b>- ⚡ Lavanya Rajeswari ⚡</b></label><br />
-<label>- 🎓 CS Student @ Aditya College of Engineering and Technology (2022–2026)</label><br />
-<label>- 💙 Passionate about Full-Stack Development, Backend Engineering, and Scalable Web Applications</label><br />
-<label>- 🌱 Building projects using Java, Spring Boot, React, PostgreSQL, and REST APIs</label><br />
-<label>- 🧠 Love solving Data Structures & Algorithms and writing clean, maintainable code</label><br />
-<label>- 🚀 Interested in Java Backend, Full-Stack Development, and Software Engineering</label><br />
-<label>- 🎯 Open to SDE / Java Developer / Full-Stack Developer opportunities</label><br />
-
-<h3><b>⚡ Tech Stack</b></h3>
-
-<p align="center">
-
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c"/>
-<img width="12"/>
+# Hi 👋, I'm Lavanya Rajeswari
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cpp"/>
-<img width="12"/>
+### Full Stack Developer • Java Backend Developer • Mern Stack Developer • Competitive Coder
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java"/>
-<img width="12"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Competitive+Programmer;Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Building+Scalable+Web+Applications"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript"/>
-<img width="12"/>
+<br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react"/>
-<img width="12"/>
+<img src="https://komarev.com/ghpvc/?username=LavanyaRajeswari&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html"/>
-<img width="12"/>
+<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-020617?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css"/>
-<img width="12"/>
+<img src="https://img.shields.io/badge/Java-Spring%20Boot-020617?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="node"/>
-<img width="12"/>
+<img src="https://img.shields.io/badge/Open%20To-SDE%20Roles-020617?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
-<br/>
+---
+
+# ⭐ About Me
+
+<table>
+
+<tr>
+
+<td width="65%">
+
+### 👋 Hello!
+
+I'm **Lavanya Rajeswari**, a Computer Science student passionate about building scalable web applications and solving real-world problems through software.
+
+🎓 **B.Tech – Computer Science Engineering**  
+Aditya College of Engineering and Technology *(2022 – 2026)*
+
+💙 Passionate about
+
+- Full Stack Development
+- Backend Development
+- Frontend Development
+
+🌱 Currently working with
+
+- Spring Boot
+
+🧠 Strong interest in
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Software Engineering
+- Scalable Backend Systems
+
+</td>
+
+<td align="center">
+
+<img src="https://i.imgflip.com/65efzo.gif" width="250"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# ⚡ Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
+
+## 🎨 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+</p>
+
+## ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
+
+</p>
+
+
+## 🗄️ Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+</p>
+
+
+## 🛠️ Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=idea"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+# 🚀 Highlight Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 📷 Instagram Clone
+
+A full-stack Instagram-inspired social media platform featuring authentication, profile management, posts, reels, likes, comments, follow system, notifications, explore feed, and real-time messaging.
+
+### ⚙️ Tech Stack
+
+Spring Boot • Spring Security • React • PostgreSQL • JWT • WebSocket
+
+<br>
+
+<a href="https://github.com/LavanyaRajeswari/Instagram">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagramweb-olive.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 📝 Blog Application
+
+A secure blogging platform supporting user authentication, role-based authorization, CRUD operations, categories, comments, and responsive design following the MVC architecture.
+
+### ⚙️ Tech Stack
+
+Spring Boot • Spring Security • Spring Data JPA • Hibernate • MySQL
+
+<br>
+
+<a href="https://github.com/LavanyaRajeswari">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://blog-application-79hz.onrender.com/posts">
+<img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=for-the-badge&logo=render&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 📦 StockWise
+
+A smart inventory management platform with role-based dashboards, inventory tracking, analytics, Excel bulk upload, and predictive restocking for efficient stock management.
+
+### ⚙️ Tech Stack
+
+React • Node.js • Express.js • MongoDB
+
+<br>
+
+<a href="https://github.com/LavanyaRajeswari/StockWise">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🚌 Live Bus
+
+A real-time GPS bus tracking application that enables passengers to monitor live bus locations, estimated arrival times, and route information while providing administrative route management.
+
+### ⚙️ Tech Stack
+
+React • Node.js • Express.js • MongoDB
+
+<br>
+
+<a href="https://github.com/LavanyaRajeswari/Live_Bus">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🧩 Competitive Programming
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express"/>
-<img width="12"/>
+<img src="https://img.shields.io/badge/HackerRank-5⭐%20C++%20%7C%20Problem%20Solving-020617?style=for-the-badge&logo=hackerrank&logoColor=22c55e"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring"/>
-<img width="12"/>
+<img src="https://img.shields.io/badge/LeetCode-440%2B-020617?style=for-the-badge&logo=leetcode&logoColor=facc15"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql"/>
-<img width="12"/>
+<img src="https://img.shields.io/badge/CodeChef-1000%2B-020617?style=for-the-badge&logo=codechef&logoColor=ffffff"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="50" alt="firebase"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github"/>
-<img width="12"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-180%2B-020617?style=for-the-badge&logo=geeksforgeeks&logoColor=22c55e"/>
 
 </div>
 
-</p>
+<br>
 
-<h3><b>⚙️ Backend & Core Technologies</b></h3>
+### 💻 Problem Solving
 
-- ☕ Java
-- 🌱 Spring Framework
-- 🚀 Spring Boot
-- 🔐 Spring Security
-- 🗄️ Spring Data JPA
-- ⚙️ Hibernate
-- 🔑 JWT Authentication
-- 🔌 REST APIs
-- 🌐 WebSocket
-- 🐘 PostgreSQL
-- 🍃 MongoDB
-- 🐬 MySQL
-- ⚛️ React
-- 🟢 Node.js
-- 🚂 Express.js
-- 📬 Postman
-- 🌿 Git & GitHub
+- Solved **1600+ coding problems** across multiple platforms.
+- Strong understanding of **Data Structures & Algorithms**.
+- Comfortable solving medium and hard interview problems.
+- Regularly practice competitive programming to improve problem-solving and logical thinking.
 
-<h3><b>🚀 Highlight Projects</b></h3>
+---
 
-<b>Focused on building scalable, secure, and real-world applications.</b><br />
-<br />
+# 🏆 Certifications
 
-- 📷 **Instagram Clone** – Full-Stack Social Media Platform <br />
-  - Built a feature-rich Instagram-inspired application with secure authentication, profile management, posts, likes, comments, follow system, explore feed, and real-time messaging. <br />
-  - Stack: Spring Boot, Spring Security, React, PostgreSQL, JWT, WebSocket <br />
-  - Repo: `https://github.com/LavanyaRajeswari/Instagram` <br />
-  - Live: `https://instagramweb-olive.vercel.app` <br />
-<br />
+- Oracle Java Foundations
+- Pearson Java Fundamentals
+- Cisco JavaScript Essentials
+- HackerRank Problem Solving
 
-- 📝 **Blog Application** – Secure Blogging Platform <br />
-  - Blog management system with user authentication, role-based authorization, CRUD operations, categories, comments, and responsive design. <br />
-  - Stack: Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL <br />
-  - Repo: `https://github.com/LavanyaRajeswari` <br />
-  - Live:  `https://blog-application-79hz.onrender.com/posts` <br />
-<br />
+---
 
-- 🛒 **StockWise** – Smart Inventory Management System <br />
-  - Inventory management platform with role-based dashboards, analytics, Excel bulk upload, stock monitoring, and predictive restocking. <br />
-  - Stack: React, Node.js, Express.js, MongoDB <br />
-  - Repo: `https://github.com/LavanyaRajeswari/StockWise` <br />
-<br />
+# 📊 GitHub Stats
 
-- 🚌 **Live Bus** – Real-Time Bus Tracking System <br />
-  - GPS-enabled bus tracking application with live location updates, route management, and estimated arrival time for passengers. <br />
-  - Stack: React, Node.js, Express.js, MongoDB <br />
-  - Repo: `https://github.com/LavanyaRajeswari/Live_Bus` <br />
-<br />
 
-<h3><b>🧩 Competitive Coding</b></h3>
+<div align="center">
 
-<p align="start">
-  <img src="https://img.shields.io/badge/HackerRank-5⭐%20C++%20%7C%20Problem%20Solving-020617?style=for-the-badge&logo=hackerrank&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/LeetCode-440%2B-020617?style=for-the-badge&logo=leetcode&logoColor=facc15" />
-  <img src="https://img.shields.io/badge/CodeChef-1000%2B-020617?style=for-the-badge&logo=codechef&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/GFG-180%2B-020617?style=for-the-badge&logo=geeksforgeeks&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/Cert-Pearson%20Java%20Fundamentals-020617?style=for-the-badge&logo=java&logoColor=f89820" />
-</p>
+<img src="https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight&hide_border=true"/>
 
-<h3><b> 📊 Stats Zone</b></h3>
+</div>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LavanyaRajeswari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavanyaRajeswari&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<br>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=LavanyaRajeswari&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LavanyaRajeswari&theme=tokyo-night&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LavanyaRajeswari&theme=tokyo-night&hide_border=true"/>
 
-<h3><b>🌐 Let's Connect</b></h3>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/lavanya-rajeswari-saride-7b856a288">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="linkedin"
-         style="filter: drop-shadow(0 0 4px #ffffff);" />
-  </a>
+---
 
-  <a href="https://github.com/LavanyaRajeswari">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="github"
-         style="filter: drop-shadow(0 0 4px #ffffff);" />
-  </a>
+# 🌐 Let's Connect
 
-  <a href="https://lavanya-rajeswari.vercel.app">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" height="48" alt="portfolio"
-         style="filter: drop-shadow(0 0 4px #ffffff);" />
-  </a>
+<div align="center">
 
-  <a href="mailto:saridelavanyarajeswari@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="email"
-         style="filter: drop-shadow(0 0 4px #ffffff);" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/lavanya-rajeswari-saride-7b856a288">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
 
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="7"
-           style="max-width: 95%; border-radius: 999px; padding: 10px 18px;
-                  background:#020617; color:#38BDF8; font-family:'Fira Code', monospace;
-                  font-size:18px; border:1px solid #38BDF8;
-                  box-shadow:0 0 12px rgba(56,189,248,0.7);">
-    | Thanks for Visiting 👋 | Always Learning • Always Building 🚀 | Open to Software Engineering Opportunities 💻 |
-  </marquee>
-</p>
 
-<p align="center">
-  <a href="https://lavanya-rajeswari.vercel.app">
-    ⭐ Portfolio
-  </a>
-</p>
+<a href="https://github.com/LavanyaRajeswari">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+
+<a href="https://lavanya-rajeswari.vercel.app">
+<img src="https://skillicons.dev/icons?i=react" height="55"/>
+</a>
+
+
+<a href="mailto:saridelavanyarajeswari@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/lavanya-rajeswari-saride-7b856a288">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/LavanyaRajeswari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://lavanya-rajeswari.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:saridelavanyarajeswari@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Current Focus
+
+<div align="center">
+
+| 🌱 Learning | 🚀 Building | 🎯 Goal |
+|:------------|:------------|:---------|
+| Spring Boot, Spring Security, PostgreSQL | Scalable Full-Stack Applications | Software Development Engineer |
+
+</div>
+
+---
+
+# 💡 Fun Fact
+
+<div align="center">
+
+> *"I enjoy turning ideas into scalable applications while continuously improving my problem-solving skills through Data Structures & Algorithms."*
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0F4C81&height=120&section=footer"/>
+
+</div>
